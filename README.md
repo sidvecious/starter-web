@@ -15,3 +15,7 @@ As stated above, the main purpouse is to provide simple examples for git trainin
 Sample website with plenty of files for demos
 
 ## How to Contribute
+
+### Copyright
+
+2017 Git.Training.
